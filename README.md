@@ -1,2 +1,2 @@
-# GIt_one
+# hdfc-proj
 first exercise
